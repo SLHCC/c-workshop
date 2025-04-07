@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dynamicarray.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c"
+    }
+}
