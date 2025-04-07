@@ -2,7 +2,7 @@
 
 typedef struct
 {
-    float value;
+    int value;
     struct Node* prev;
     struct Node* next;  
 } Node;

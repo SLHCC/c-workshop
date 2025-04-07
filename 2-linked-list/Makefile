@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -g
 TARGET = linked_list
-SRCS = main.c Node.c
+SRCS = Main.c Node.c
 OBJS = $(SRCS:.c=.o)
 
 all: $(TARGET)
